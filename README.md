@@ -143,13 +143,12 @@ https://openweathermap.org/api
 
 
 <!-- ROADMAP -->
-## Result:
-![photo_2024-06-28_17-41-48](https://github.com/Elaf24/WeatherApp-IOS/assets/110555263/f004037f-c9a4-4b8f-b2e1-3b78801d3c9d)
-
-![photo_2024-06-28_17-42-23](https://github.com/Elaf24/WeatherApp-IOS/assets/110555263/9e562614-1617-4171-bc95-b90f7e73ab1d)
+## Result: :camera:
 
 
 
+| <img src="https://github.com/Elaf24/WeatherApp-IOS/assets/110555263/f004037f-c9a4-4b8f-b2e1-3b78801d3c9d" width="200" /> | <img src="https://github.com/Elaf24/WeatherApp-IOS/assets/110555263/9e562614-1617-4171-bc95-b90f7e73ab1d" width="200" />  
+| - | - | 
 
 
 
